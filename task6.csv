@@ -1,0 +1,191 @@
+club1-club2,similarity
+Arsenal-Bournemouth,0.09302325581395349
+Arsenal-Brighton,0.024096385542168676
+Arsenal-Burnley,0.12903225806451613
+Arsenal-Cardiff,0.08602150537634409
+Arsenal-Chelsea,0.49710982658959535
+Arsenal-Crystal Palace,0.11235955056179775
+Arsenal-Everton,0.19469026548672566
+Arsenal-Fulham,0.20833333333333334
+Arsenal-Huddersfield,0.024096385542168676
+Arsenal-Leicester City,0.047619047619047616
+Arsenal-Liverpool,0.19548872180451127
+Arsenal-Manchester City,0.09615384615384616
+Arsenal-Manchester United,0.4768211920529801
+Arsenal-Newcastle United,0.046511627906976744
+Arsenal-Southampton,0.21359223300970873
+Arsenal-Tottenham,0.11538461538461539
+Arsenal-Watford,0.047619047619047616
+Arsenal-West Ham United,0.0
+Arsenal-Wolverhampton,0.024096385542168676
+Bournemouth-Brighton,0.4
+Bournemouth-Burnley,0.4
+Bournemouth-Cardiff,0.26666666666666666
+Bournemouth-Chelsea,0.042105263157894736
+Bournemouth-Crystal Palace,0.18181818181818182
+Bournemouth-Everton,0.11428571428571428
+Bournemouth-Fulham,0.2222222222222222
+Bournemouth-Huddersfield,0.0
+Bournemouth-Leicester City,0.0
+Bournemouth-Liverpool,0.07272727272727272
+Bournemouth-Manchester City,0.07692307692307693
+Bournemouth-Manchester United,0.0821917808219178
+Bournemouth-Newcastle United,0.25
+Bournemouth-Southampton,0.24
+Bournemouth-Tottenham,0.23076923076923078
+Bournemouth-Watford,0.6666666666666666
+Bournemouth-West Ham United,0.0
+Bournemouth-Wolverhampton,0.4
+Brighton-Burnley,0.16666666666666666
+Brighton-Cardiff,0.16666666666666666
+Brighton-Chelsea,0.021739130434782608
+Brighton-Crystal Palace,0.25
+Brighton-Everton,0.0625
+Brighton-Fulham,0.13333333333333333
+Brighton-Huddersfield,0.0
+Brighton-Leicester City,0.0
+Brighton-Liverpool,0.038461538461538464
+Brighton-Manchester City,0.0
+Brighton-Manchester United,0.02857142857142857
+Brighton-Newcastle United,0.4
+Brighton-Southampton,0.09090909090909091
+Brighton-Tottenham,0.08695652173913043
+Brighton-Watford,0.6666666666666666
+Brighton-West Ham United,0.0
+Brighton-Wolverhampton,0.0
+Burnley-Cardiff,0.45454545454545453
+Burnley-Chelsea,0.09803921568627451
+Burnley-Crystal Palace,0.2222222222222222
+Burnley-Everton,0.19047619047619047
+Burnley-Fulham,0.32
+Burnley-Huddersfield,0.0
+Burnley-Leicester City,0.15384615384615385
+Burnley-Liverpool,0.22580645161290322
+Burnley-Manchester City,0.12121212121212122
+Burnley-Manchester United,0.2
+Burnley-Newcastle United,0.13333333333333333
+Burnley-Southampton,0.375
+Burnley-Tottenham,0.30303030303030304
+Burnley-Watford,0.3076923076923077
+Burnley-West Ham United,0.0
+Burnley-Wolverhampton,0.16666666666666666
+Cardiff-Chelsea,0.13725490196078433
+Cardiff-Crystal Palace,0.2222222222222222
+Cardiff-Everton,0.2857142857142857
+Cardiff-Fulham,0.24
+Cardiff-Huddersfield,0.0
+Cardiff-Leicester City,0.15384615384615385
+Cardiff-Liverpool,0.25806451612903225
+Cardiff-Manchester City,0.18181818181818182
+Cardiff-Manchester United,0.2
+Cardiff-Newcastle United,0.26666666666666666
+Cardiff-Southampton,0.25
+Cardiff-Tottenham,0.24242424242424243
+Cardiff-Watford,0.3076923076923077
+Cardiff-West Ham United,0.0
+Cardiff-Wolverhampton,0.16666666666666666
+Chelsea-Crystal Palace,0.061224489795918366
+Chelsea-Everton,0.2786885245901639
+Chelsea-Fulham,0.1523809523809524
+Chelsea-Huddersfield,0.0
+Chelsea-Leicester City,0.043010752688172046
+Chelsea-Liverpool,0.38028169014084506
+Chelsea-Manchester City,0.10619469026548672
+Chelsea-Manchester United,0.4
+Chelsea-Newcastle United,0.042105263157894736
+Chelsea-Southampton,0.14285714285714285
+Chelsea-Tottenham,0.1415929203539823
+Chelsea-Watford,0.043010752688172046
+Chelsea-West Ham United,0.0
+Chelsea-Wolverhampton,0.021739130434782608
+Crystal Palace-Everton,0.10526315789473684
+Crystal Palace-Fulham,0.09523809523809523
+Crystal Palace-Huddersfield,0.25
+Crystal Palace-Leicester City,0.2222222222222222
+Crystal Palace-Liverpool,0.10344827586206896
+Crystal Palace-Manchester City,0.0
+Crystal Palace-Manchester United,0.10526315789473684
+Crystal Palace-Newcastle United,0.36363636363636365
+Crystal Palace-Southampton,0.14285714285714285
+Crystal Palace-Tottenham,0.06896551724137931
+Crystal Palace-Watford,0.2222222222222222
+Crystal Palace-West Ham United,0.0
+Crystal Palace-Wolverhampton,0.0
+Everton-Fulham,0.26666666666666666
+Everton-Huddersfield,0.0
+Everton-Leicester City,0.12121212121212122
+Everton-Liverpool,0.24390243902439024
+Everton-Manchester City,0.2641509433962264
+Everton-Manchester United,0.28
+Everton-Newcastle United,0.11428571428571428
+Everton-Southampton,0.23076923076923078
+Everton-Tottenham,0.1509433962264151
+Everton-Watford,0.12121212121212122
+Everton-West Ham United,0.0
+Everton-Wolverhampton,0.0625
+Fulham-Huddersfield,0.0
+Fulham-Leicester City,0.125
+Fulham-Liverpool,0.15384615384615385
+Fulham-Manchester City,0.05555555555555555
+Fulham-Manchester United,0.1686746987951807
+Fulham-Newcastle United,0.1111111111111111
+Fulham-Southampton,0.22857142857142856
+Fulham-Tottenham,0.16666666666666666
+Fulham-Watford,0.25
+Fulham-West Ham United,0.0
+Fulham-Wolverhampton,0.13333333333333333
+Huddersfield-Leicester City,0.0
+Huddersfield-Liverpool,0.0
+Huddersfield-Manchester City,0.0
+Huddersfield-Manchester United,0.0
+Huddersfield-Newcastle United,0.0
+Huddersfield-Southampton,0.0
+Huddersfield-Tottenham,0.0
+Huddersfield-Watford,0.0
+Huddersfield-West Ham United,0.0
+Huddersfield-Wolverhampton,0.0
+Leicester City-Liverpool,0.03773584905660377
+Leicester City-Manchester City,0.0
+Leicester City-Manchester United,0.056338028169014086
+Leicester City-Newcastle United,0.3333333333333333
+Leicester City-Southampton,0.17391304347826086
+Leicester City-Tottenham,0.08333333333333333
+Leicester City-Watford,0.0
+Leicester City-West Ham United,0.0
+Leicester City-Wolverhampton,0.0
+Liverpool-Manchester City,0.1917808219178082
+Liverpool-Manchester United,0.23333333333333334
+Liverpool-Newcastle United,0.07272727272727272
+Liverpool-Southampton,0.16666666666666666
+Liverpool-Tottenham,0.0821917808219178
+Liverpool-Watford,0.07547169811320754
+Liverpool-West Ham United,0.0
+Liverpool-Wolverhampton,0.038461538461538464
+Manchester City-Manchester United,0.15384615384615385
+Manchester City-Newcastle United,0.0
+Manchester City-Southampton,0.09302325581395349
+Manchester City-Tottenham,0.09090909090909091
+Manchester City-Watford,0.08333333333333333
+Manchester City-West Ham United,0.0
+Manchester City-Wolverhampton,0.08695652173913043
+Manchester United-Newcastle United,0.0547945205479452
+Manchester United-Southampton,0.17777777777777778
+Manchester United-Tottenham,0.24175824175824176
+Manchester United-Watford,0.056338028169014086
+Manchester United-West Ham United,0.0
+Manchester United-Wolverhampton,0.02857142857142857
+Newcastle United-Southampton,0.16
+Newcastle United-Tottenham,0.07692307692307693
+Newcastle United-Watford,0.3333333333333333
+Newcastle United-West Ham United,0.0
+Newcastle United-Wolverhampton,0.0
+Southampton-Tottenham,0.32558139534883723
+Southampton-Watford,0.17391304347826086
+Southampton-West Ham United,0.0
+Southampton-Wolverhampton,0.09090909090909091
+Tottenham-Watford,0.16666666666666666
+Tottenham-West Ham United,0.0
+Tottenham-Wolverhampton,0.08695652173913043
+Watford-West Ham United,0.0
+Watford-Wolverhampton,0.6666666666666666
+West Ham United-Wolverhampton,0.0
